@@ -1,4 +1,4 @@
-# Insomnia-C2-Fuji-Sakura
+# Insomnia C2 Fuji Sakura
 
 Sample theme for Insomnia C2 framework. You can fork this repo to create your own theme.
 
